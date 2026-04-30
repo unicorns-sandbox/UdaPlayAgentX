@@ -1,0 +1,23 @@
+[
+    {
+      "title": "FIFA 21",
+      "developer": "EA Sports",
+      "release_date": "2020",
+      "platform": "PC, PS4, Xbox One",
+      "genre": "Sports"
+    },
+    {
+      "title": "God of War Ragnarok",
+      "developer": "Santa Monica Studio",
+      "release_date": "2022",
+      "platform": "PS4, PS5",
+      "genre": "Action"
+    },
+    {
+      "title": "Pokemon Red",
+      "developer": "Game Freak",
+      "release_date": "1996",
+      "platform": "Game Boy",
+      "genre": "RPG"
+    }
+  ]

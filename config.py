@@ -1,0 +1,10 @@
+from dotenv import load_dotenv
+import os 
+
+load_dotenv('.env')
+
+OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+TAVILY_API_KEY = os.getenv('TAVILY_API_KEY')
+
+if not TAVILY_API_KEY:
+    raise ValueError("Missing TAVILY_API_KEY in .env")
