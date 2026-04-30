@@ -1,14 +1,37 @@
-from rag.query import semantic_search
+from rag.query import search_games
+from web_search import web_search
+
 
 def retrieve_game(query):
-    return semantic_search(query)
+    results = search_games(query)
 
-def evaluate_retrieval(result):
-    if not result or len(result[0]) == 0:
-        return 0.2
-    return 0.85
+    return {
+        "tool": "retrieve_game",
+        "query": query,
+        "results": results
+    }
 
-from web.tavily_search import search_web
+
+def evaluate_retrieval(results):
+    if not results:
+        return {
+            "tool": "evaluate_retrieval",
+            "status": "fail",
+            "reason": "No results found"
+        }
+
+    return {
+        "tool": "evaluate_retrieval",
+        "status": "pass",
+        "reason": "Results look usable"
+    }
+
 
 def game_web_search(query):
-    return search_web(query)
+    results = web_search(query)
+
+    return {
+        "tool": "game_web_search",
+        "query": query,
+        "results": results
+    }
