@@ -1,30 +1,40 @@
-class AgentStateMachine:
+from agent.tools import (
+    retrieve_game,
+    evaluate_retrieval,
+    game_web_search
+)
 
-    def run(self, query, retrieve, evaluate, web_search):
 
-        state = "START"
-        reasoning = []
+class GameAgent:
+    def run(self, query):
+        report = {
+            "query": query,
+            "steps": []
+        }
 
-        # STATE 1: RETRIEVE
-        if state == "START":
-            result = retrieve(query)
-            reasoning.append("Used retrieve_game")
-            state = "EVALUATE"
+        # STEP 1 — Retrieve
+        retrieval = retrieve_game(query)
+        report["steps"].append(retrieval)
 
-        # STATE 2: EVALUATE
-        if state == "EVALUATE":
-            score = evaluate(result)
-            reasoning.append(f"Score: {score}")
+        # STEP 2 — Evaluate
+        evaluation = evaluate_retrieval(retrieval["results"])
+        report["steps"].append(evaluation)
 
-            if score < 0.6:
-                state = "WEB"
-            else:
-                state = "END"
+        # STEP 3 — Decision
+        if evaluation["status"] == "pass":
+            report["final"] = {
+                "source": "vector_db",
+                "results": retrieval["results"]
+            }
+            return report
 
-        # STATE 3: WEB FALLBACK
-        if state == "WEB":
-            result = web_search(query)
-            reasoning.append("Used web search")
-            state = "END"
+        # STEP 4 — Web fallback
+        web = game_web_search(query)
+        report["steps"].append(web)
 
-        return result, reasoning
+        report["final"] = {
+            "source": "web",
+            "results": web["results"]
+        }
+
+        return report
