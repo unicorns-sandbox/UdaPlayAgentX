@@ -5,8 +5,7 @@ from config import TAVILY_API_KEY
 tavily_client = TavilyClient(api_key=TAVILY_API_KEY)
 
 
-def search_web(query):
-   
+def web_search(query):
     response = tavily_client.search(
         query=query,
         search_depth="advanced",
@@ -16,20 +15,15 @@ def search_web(query):
     results = response.get("results", [])
 
     if not results:
-        return {
-            "query": query,
-            "answer": "No results found.",
-            "source": "Tavily"
-        }
+        return []
 
-    # Format results into readable text
-    formatted = []
+    structured_results = []
+
     for r in results:
-        formatted.append(f"- {r['title']}: {r['content']}")
+        structured_results.append({
+            "title": r.get("title"),
+            "content": r.get("content"),
+            "url": r.get("url")
+        })
 
-    return {
-        "query": query,
-        "answer": "\n".join(formatted),
-        "source": "Tavily",
-        "raw_results": results
-    }
+    return structured_results
