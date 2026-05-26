@@ -1,0 +1,229 @@
+{
+  "session_id": "user-a",
+  "turns": [
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "The **Elden Ring Wiki** covers Elden Ring, developed by FromSoftware and BANDAI NAMCO Entertainment Inc, is a fantasy action-RPG adventure set within a world created by Hidetaka Miyazaki -creator of the influential DARK SOULS video game series, and George R R Martin - author of The New York Times best-selling fantasy series, A Song of Ice and Fire. It is a game set within the universe or setting of Elden Ring that (might we say) features a \"condensed\" area of Limgrave where players will get to explore familiar areas and some new biomes. In this title, which retains some of the enemies, weapons, and other elements of \"ELDEN RING\" but has been reconstructed with a completely different game design, players will control characters with different personalities and take on new threats.\"**. Shadow of the Erdtree adds new Weapons, equipment, weapon skills and Magic not found in the base game ELDEN RING, along with new Enemies, Boss encounters and plotlines to further increase players' RPG freedom.",
+      "source": "https://eldenring.wiki.fextralife.com/Elden+Ring+Wiki",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "Elden Ring is a fantasy action role playing game developed by FromSoftware and published by Bandai Namco Entertainment.",
+      "source": "https://eldenring.fandom.com/wiki/Elden_Ring_(game)",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "Elden Ring is an open-world action RPG developed by FromSoftware and published by Bandai Namco Entertainment, released on February 25, 2022.",
+      "source": "https://www.facebook.com/FandomWire/posts/elden-ring-was-released-on-this-day-4-years-ago/1340457764781057/",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin/",
+      "topic": "And",
+      "extra": {}
+    },
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "# FromSoftware Might Start Publishing Its Own Games. ### FromSoftware. FromSoftware's games, including Elden Ring and Dark Souls, are now published by Bandai Namco Entertainment, but this might change soon. Kadokawa Corporation, a company that owns FromSoftware, has released a financial report for Q1 which ended on June 30, 2024, where it mentioned the Elden Ring creator progressing in its \"preparations to expand its own publishing range.\". The revenues were strongly affected by Elden Ring's DLC Shadow of the Erdtree, which sold over 5 million units worldwide in the first three days after its release. How do you think FromSoftware publishing its titles will affect them? At least Bandai Namco won't be sued because its games are too hard anymore. Bandai Namco is Getting Sued Because Elden Ring is Too Hard. Low FPS in Elden Ring May Be Caused By Your Own Mouse. By using the site you agree to our use of cookies.Learn more.",
+      "source": "https://80.lv/articles/fromsoftware-might-start-publishing-its-own-games",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin",
+      "topic": "And",
+      "extra": {}
+    },
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "# FromSoftware Might Start Publishing Its Own Games. ### FromSoftware. FromSoftware's games, including Elden Ring and Dark Souls, are now published by Bandai Namco Entertainment, but this might change soon. Kadokawa Corporation, a company that owns FromSoftware, has released a financial report for Q1 which ended on June 30, 2024, where it mentioned the Elden Ring creator progressing in its \"preparations to expand its own publishing range.\". The revenues were strongly affected by Elden Ring's DLC Shadow of the Erdtree, which sold over 5 million units worldwide in the first three days after its release. How do you think FromSoftware publishing its titles will affect them? At least Bandai Namco won't be sued because its games are too hard anymore. Bandai Namco is Getting Sued Because Elden Ring is Too Hard. Low FPS in Elden Ring May Be Caused By Your Own Mouse. By using the site you agree to our use of cookies.Learn more.",
+      "source": "https://80.lv/articles/fromsoftware-might-start-publishing-its-own-games",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin",
+      "topic": "And",
+      "extra": {}
+    },
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "# FromSoftware Might Start Publishing Its Own Games. ### FromSoftware. FromSoftware's games, including Elden Ring and Dark Souls, are now published by Bandai Namco Entertainment, but this might change soon. Kadokawa Corporation, a company that owns FromSoftware, has released a financial report for Q1 which ended on June 30, 2024, where it mentioned the Elden Ring creator progressing in its \"preparations to expand its own publishing range.\". The revenues were strongly affected by Elden Ring's DLC Shadow of the Erdtree, which sold over 5 million units worldwide in the first three days after its release. How do you think FromSoftware publishing its titles will affect them? At least Bandai Namco won't be sued because its games are too hard anymore. Bandai Namco is Getting Sued Because Elden Ring is Too Hard. Low FPS in Elden Ring May Be Caused By Your Own Mouse. By using the site you agree to our use of cookies.Learn more.",
+      "source": "https://80.lv/articles/fromsoftware-might-start-publishing-its-own-games",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin",
+      "topic": "And",
+      "extra": {}
+    },
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "# FromSoftware Might Start Publishing Its Own Games. ### FromSoftware. FromSoftware's games, including Elden Ring and Dark Souls, are now published by Bandai Namco Entertainment, but this might change soon. Kadokawa Corporation, a company that owns FromSoftware, has released a financial report for Q1 which ended on June 30, 2024, where it mentioned the Elden Ring creator progressing in its \"preparations to expand its own publishing range.\". The revenues were strongly affected by Elden Ring's DLC Shadow of the Erdtree, which sold over 5 million units worldwide in the first three days after its release. How do you think FromSoftware publishing its titles will affect them? At least Bandai Namco won't be sued because its games are too hard anymore. Bandai Namco is Getting Sued Because Elden Ring is Too Hard. Low FPS in Elden Ring May Be Caused By Your Own Mouse. By using the site you agree to our use of cookies.Learn more.",
+      "source": "https://80.lv/articles/fromsoftware-might-start-publishing-its-own-games",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin",
+      "topic": "And",
+      "extra": {}
+    },
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "# FromSoftware Might Start Publishing Its Own Games. ### FromSoftware. FromSoftware's games, including Elden Ring and Dark Souls, are now published by Bandai Namco Entertainment, but this might change soon. Kadokawa Corporation, a company that owns FromSoftware, has released a financial report for Q1 which ended on June 30, 2024, where it mentioned the Elden Ring creator progressing in its \"preparations to expand its own publishing range.\". The revenues were strongly affected by Elden Ring's DLC Shadow of the Erdtree, which sold over 5 million units worldwide in the first three days after its release. How do you think FromSoftware publishing its titles will affect them? At least Bandai Namco won't be sued because its games are too hard anymore. Bandai Namco is Getting Sued Because Elden Ring is Too Hard. Low FPS in Elden Ring May Be Caused By Your Own Mouse. By using the site you agree to our use of cookies.Learn more.",
+      "source": "https://80.lv/articles/fromsoftware-might-start-publishing-its-own-games",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin",
+      "topic": "And",
+      "extra": {}
+    },
+    {
+      "query": "Tell me about Elden Ring",
+      "rewritten_query": "Tell me about Elden Ring",
+      "answer": "No relevant results found.",
+      "source": "n/a",
+      "topic": "Elden Ring",
+      "extra": {}
+    },
+    {
+      "query": "Who published it?",
+      "rewritten_query": "Who published Elden Ring?",
+      "answer": "This article is about the video game. For the upcoming film, see *Elden Ring* (film) \"Elden Ring (film)\"). ***Elden Ring*** is a 2022 action role-playing game directed by Hidetaka Miyazaki with worldbuilding provided by the American fantasy writer George R. Developed by FromSoftware and published by Bandai Namco Entertainment, it was first released on February 25, 2022 for PlayStation 4, PlayStation 5, Windows, Xbox One and Xbox Series X/S. Set in the Lands Between, players control a customizable player character on a quest to repair the Elden Ring and become the new Elden Lord. Throughout the game's world, checkpoints enable fast travel and allow players to improve their attributes \"Attribute (role-playing games)\") using an in-game currency called runes. *Elden Ring* won several Game of the Year awards and has been cited as one of the greatest games of all time, with praise directed towards its open world, gameplay systems, and setting. The downloadable content (DLC) *Shadow of the Erdtree* follows the player character in the Land of Shadow.",
+      "source": "https://en.wikipedia.org/wiki/Elden_Ring",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "When was it released?",
+      "rewritten_query": "When was Elden released?",
+      "answer": "PROGRESS CHECK! On February 25, 2022, Elden Ring was first released, captivating players with its vast world, rich lore, and challenging",
+      "source": "https://www.facebook.com/FandomWire/posts/elden-ring-was-released-on-this-day-4-years-ago/1340457764781057",
+      "topic": "Elden",
+      "extra": {}
+    },
+    {
+      "query": "And who developed it?",
+      "rewritten_query": "And who developed Elden?",
+      "answer": "Elden Ring, developed by FromSoftware, Inc. and Bandai Namco Entertainment Inc., is a fantasy action-RPG adventure set within a world created",
+      "source": "https://forums.serenesforest.net/topic/87571-elden-ring-a-new-fromsoftware-game-from-hidetaka-miyazaki-and-george-rr-martin",
+      "topic": "And",
+      "extra": {}
+    }
+  ]
+}
